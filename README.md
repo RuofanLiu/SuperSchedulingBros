@@ -1,0 +1,1 @@
+This is the homepage for Super Scheduling Brothers, an Android app that will help people schedule meet-ups for Super Smash Brothers.  
